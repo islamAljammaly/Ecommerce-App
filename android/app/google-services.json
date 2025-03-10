@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071470839330",
+    "project_id": "newecommerce-d7dac",
+    "storage_bucket": "newecommerce-d7dac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071470839330:android:b905b05437fc84b41aac7b",
+        "android_client_info": {
+          "package_name": "com.example.new_eqommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgfgGmr22oacEVFNbqrSw0RRHI4E_2uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
